@@ -1,8 +1,0 @@
-spring:
-  datasource:
-    password: 1298
-    username: root
-    url: jdbc:mysql://localhost:3306/shopallfornecedor
-  jpa:
-    hibernate:
-      ddl-auto: update
